@@ -34,7 +34,7 @@ It's like YCSB but with more Google. A simple tool meant to generate load agains
 
 ### Installation
  
-First [install Go](https://go.dev/doc/install) and run the following command to install gcsb:
+First [install Go](https://go.dev/doc/install) and run the following command to install GCSB:
 
 ```sh
 go install github.com/cloudspannerecosystem/gcsb@latest
